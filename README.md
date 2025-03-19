@@ -34,7 +34,7 @@ ___
 ### 📌 Top Repositories
 
 <a href="https://github.com/Erika-Belicova/estate">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Erika-Belicova&repo=estate&theme=light&description=This+project+is+a+back-end+focused+application+that+connects+to+an+existing+front-    end+through+a+REST+API.%0ABuilt+using+Java+and+Spring+Boot%2C+it+integrates+a+database%2C+handles+authentication%2C+and+implements+security+features+with+Spring+Security.%0AThe+application+connects+tenants+and+landlords%2C+enabling+them+to+rent+properties.%0A(Work+in+Progress)" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Erika-Belicova&repo=estate&theme=light&description=This+project+is+a+back-end+application+that+connects+to+an+existing+front-end+through+a+REST+API.%0ABuilt+using+Java+and+Spring+Boot%2C+it+integrates+a+database%2C+handles+authentication%2C+and+implements+security+features+with+Spring+Security.%0AThe+application+connects+tenants+and+landlords%2C+enabling+them+to+rent+properties.%0A(Work+in+Progress)" />
 </a>
 </a>
 <a href="https://github.com/Erika-Belicova/olympic-games">
