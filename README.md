@@ -34,10 +34,10 @@ ___
 ### 📌 Top Repositories
 
 <a href="https://github.com/Erika-Belicova/estate">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Erika-Belicova&repo=estate&theme=shadow_blue" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Erika-Belicova&repo=estate&theme=light" />
 </a>
 <a href="https://github.com/Erika-Belicova/olympic-games">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Erika-Belicova&repo=olympic-games&theme=shadow_blue" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Erika-Belicova&repo=olympic-games&theme=light" />
 </a>
 
 ___
@@ -54,7 +54,7 @@ ___
 
 You can find me on **[LinkedIn](https://www.linkedin.com/in/erika-belicova/)** to connect, collaborate, or chat about tech!  
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/erika-belicova/">
   <img src="https://skillicons.dev/icons?i=linkedin" height="40" style="vertical-align: middle; margin-left: 10px;"/>
   </a>
