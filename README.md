@@ -37,9 +37,11 @@ ___
   <a href="https://github.com/Erika-Belicova/estate">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Erika-Belicova&repo=estate&theme=light" />
   </a>
+  <p align="center">This project is a back-end focused application that connects to an existing front-end through a REST API. Built using Java and Spring Boot, it integrates a database, handles authentication, and implements security features with Spring Security. The application connects tenants and landlords, enabling them to rent properties. (Work in progress)</p>
   <a href="https://github.com/Erika-Belicova/olympic-games">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Erika-Belicova&repo=olympic-games&theme=light" />
   </a>
+  <p align="center">The project is a front-end application built with Angular, featuring an interactive web dashboard for Olympic Games data. It involves implementing the UI based on pre-designed wireframes and integrating data through services with RxJS observables. The dashboard is responsive and functions smoothly on both mobile and desktop platforms.</p>
 </div>
 
 
