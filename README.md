@@ -34,10 +34,10 @@ ___
 ### 📌 Top Repositories
 
 <a href="https://github.com/Erika-Belicova/estate">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Erika-Belicova&repo=estate&theme=light" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Erika-Belicova&repo=estate&theme=catppuccin_latte" />
 </a>
 <a href="https://github.com/Erika-Belicova/olympic-games">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Erika-Belicova&repo=olympic-games&theme=light" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Erika-Belicova&repo=olympic-games&theme=catppuccin_latte" />
 </a>
 
 ___
@@ -45,7 +45,7 @@ ___
 
 <div style="background-color: #f8f9fa; border: 2px solid #ddd; border-radius: 10px; padding: 20px; width: 100%; margin-bottom: 20px;">
   <div align="center">
-    [![GitHub Streak](https://streak-stats.demolab.com?user=Erika-Belicova&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+    <img src="https://streak-stats.demolab.com?user=Erika-Belicova&exclude_days=Sun%2CSat&hide_current_streak=true"/>
   </div>
 </div>
 
