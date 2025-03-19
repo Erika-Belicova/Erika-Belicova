@@ -25,6 +25,8 @@ I am a **software developer** passionate about building efficient and impactful 
       <td align="center"><img src="https://skillicons.dev/icons?i=sass" height="40"/><br/>SASS</td>
       <td align="center"><img src="https://skillicons.dev/icons?i=mysql" height="40"/><br/>MySQL</td>
       <td align="center"><img src="https://skillicons.dev/icons?i=postgresql" height="40"/><br/>PostgreSQL</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=ruby" height="40"/><br/>Ruby</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=rails" height="40"/><br/>Rails</td>
   </table>
 </div>
 
