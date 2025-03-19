@@ -45,9 +45,7 @@ ___
 
 <div style="background-color: #f8f9fa; border: 2px solid #ddd; border-radius: 10px; padding: 20px; width: 100%; margin-bottom: 20px;">
   <div align="center">
-    <img src="https://streak-stats.demolab.com/?user=Erika-Belicova&theme=light&hide_border=true"/>
-    <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erika-Belicova&layout=compact&theme=light"/>
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Erika-Belicova&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
   </div>
 </div>
 
@@ -58,7 +56,7 @@ You can find me on **[LinkedIn](https://www.linkedin.com/in/erika-belicova/)** t
 
 <div align="center">
   <a href="https://www.linkedin.com/in/erika-belicova/">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" style="vertical-align: middle; margin-left: 10px;" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" style="vertical-align: left; margin-left: 10px;" />
   </a>
 </div>
 
