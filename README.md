@@ -4,11 +4,11 @@ I am a **software developer** passionate about building efficient and impactful 
 
 ### 📌 About Me
 
-🎓 I am experienced in **backend development** and am expanding my skills in **fullstack development**.  
-🚀 Passionate about **problem-solving** and creating algorithms that power business logic.  
-🖥️ I enjoy seeing apps evolve from backend to frontend. 
-🤝 I value being part of a team and enjoy collaborating to achieve common goals.  
-🔍 I am detail-oriented with a focus on **best practices** and high-quality code.
+🎓 **Experienced in backend development**, currently expanding my skills in **fullstack development**.  
+🚀 **Passionate about problem-solving**, crafting efficient algorithms that drive business logic.  
+🖥️ **Focused on the full development cycle**, enjoying the process of building applications and seeing them take shape from backend to frontend.  
+🤝 **Collaborative team player**, dedicated to achieving common goals.  
+🔍 **Detail-oriented**, committed to best practices and high-quality code.
 
 ### 🛠 Tech Stack
 
