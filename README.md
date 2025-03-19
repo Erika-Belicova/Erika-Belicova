@@ -34,10 +34,11 @@ ___
 ### 📌 Top Repositories
 
 <a href="https://github.com/Erika-Belicova/estate">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Erika-Belicova&repo=estate&theme=light" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=estate&theme=light&description=This+project+is+a+back-end+focused+application+that+connects+to+an+existing+front-    end+through+a+REST+API.%0ABuilt+using+Java+and+Spring+Boot%2C+it+integrates+a+database%2C+handles+authentication%2C+and+implements+security+features+with+Spring+Security.%0AThe+application+connects+tenants+and+landlords%2C+enabling+them+to+rent+properties.%0A(Work+in+Progress)" />
+</a>
 </a>
 <a href="https://github.com/Erika-Belicova/olympic-games">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Erika-Belicova&repo=olympic-games&theme=light" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=olympic-games&theme=light&description=The+project+is+a+front-end+application+built+with+Angular+containing+an+interactive+web+dashboard+for+Olympic+Games+data.%0AThe+project+involves+implementing+the+UI+based+on+pre-designed+wireframes+and+integrating+data+through+services+with+RxJS+observables.%0AThe+dashboard+is+responsive%2C+functioning+smoothly+on+both+mobile+and+desktop+platforms." />
 </a>
 
 ___
