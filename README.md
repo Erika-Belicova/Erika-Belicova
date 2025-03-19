@@ -57,7 +57,7 @@ ___
 
 You can find me on **[LinkedIn](https://www.linkedin.com/in/erika-belicova/)** to connect, collaborate, or chat about tech!  
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/erika-belicova/">
   <img src="https://skillicons.dev/icons?i=linkedin" height="40" style="vertical-align: middle; margin-left: 10px;"/>
   </a>
