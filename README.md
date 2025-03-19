@@ -44,7 +44,11 @@ ___
 ___
 ### 📊 GitHub Statistics
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Erika-Belicova&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+<div style="background-color: #f8f9fa; border: 2px solid #ddd; border-radius: 10px; padding: 20px; width: 100%; margin-bottom: 20px;">
+  <div align="center">
+    <img src="https://streak-stats.demolab.com?user=Erika-Belicova&exclude_days=Sun%2CSat"/>
+  </div>
+</div>
 
 ___
 ### 📫 Let's Connect!
