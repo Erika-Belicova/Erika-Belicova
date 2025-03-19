@@ -47,7 +47,7 @@ ___
 ### 📊 GitHub Statistics
 
 <div style="background-color: #f8f9fa; border: 2px solid #ddd; border-radius: 10px; padding: 20px; width: 100%; margin-bottom: 20px;">
-  <div align="center">
+  <div align="left">
     <img src="https://streak-stats.demolab.com?user=Erika-Belicova&exclude_days=Sun%2CSat&hide_current_streak=false"/>
   </div>
 </div>
