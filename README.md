@@ -6,7 +6,7 @@ I am a **software developer** passionate about building efficient and impactful 
 
 🎓 I am experienced in **backend development** and am expanding my skills in **fullstack development**.  
 🚀 Passionate about **problem-solving** and creating algorithms that power business logic.  
-🖥️ I enjoy seeing apps evolve from backend to frontend.
+🖥️ I enjoy seeing apps evolve from backend to frontend. 
 🤝 I value being part of a team and enjoy collaborating to achieve common goals.  
 🔍 I am detail-oriented with a focus on **best practices** and high-quality code.
 
