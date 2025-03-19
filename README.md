@@ -33,12 +33,15 @@ I am a **software developer** passionate about building efficient and impactful 
 ___
 ### 📌 Top Repositories
 
-<a href="https://github.com/Erika-Belicova/estate">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Erika-Belicova&repo=estate&theme=light" />
-</a>
-<a href="https://github.com/Erika-Belicova/olympic-games">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Erika-Belicova&repo=olympic-games&theme=light" />
-</a>
+<div style="display: flex; justify-content: center; gap: 20px; padding: 20px;">
+  <a href="https://github.com/Erika-Belicova/estate">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Erika-Belicova&repo=estate&theme=light" />
+  </a>
+  <a href="https://github.com/Erika-Belicova/olympic-games">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Erika-Belicova&repo=olympic-games&theme=light" />
+  </a>
+</div>
+
 
 ___
 ### 📊 GitHub Statistics
