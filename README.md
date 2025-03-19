@@ -34,10 +34,10 @@ ___
 ### 📌 Top Repositories
 
 <a href="https://github.com/Erika-Belicova/estate">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Erika-Belicova&repo=estate&theme=catppuccin_latte" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Erika-Belicova&repo=estate&theme=shadow_blue" />
 </a>
 <a href="https://github.com/Erika-Belicova/olympic-games">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Erika-Belicova&repo=olympic-games&theme=catppuccin_latte" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Erika-Belicova&repo=olympic-games&theme=shadow_blue" />
 </a>
 
 ___
@@ -45,7 +45,7 @@ ___
 
 <div style="background-color: #f8f9fa; border: 2px solid #ddd; border-radius: 10px; padding: 20px; width: 100%; margin-bottom: 20px;">
   <div align="center">
-    <img src="https://streak-stats.demolab.com?user=Erika-Belicova&exclude_days=Sun%2CSat&hide_current_streak=true"/>
+    <img src="https://streak-stats.demolab.com?user=Erika-Belicova&exclude_days=Sun%2CSat&hide_current_streak=false"/>
   </div>
 </div>
 
@@ -56,7 +56,7 @@ You can find me on **[LinkedIn](https://www.linkedin.com/in/erika-belicova/)** t
 
 <div align="center">
   <a href="https://www.linkedin.com/in/erika-belicova/">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" style="vertical-align: middle; margin-right: 10px;"/>
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40" style="vertical-align: middle; margin-left: 10px;"/>
   </a>
 </div>
 
