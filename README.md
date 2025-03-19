@@ -53,9 +53,6 @@ ___
 </div>
 
 ___
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Erika-Belicova&theme=light&exclude_days=Sun%2CSat)](https://streak-stats.demolab.com/?user=Erika-Belicova&theme=light&exclude_days=Sun%2CSat)
-___
 ### 📫 Let's Connect!
 
 You can find me on **[LinkedIn](https://www.linkedin.com/in/erika-belicova/)** to connect, collaborate, or chat about tech!  
