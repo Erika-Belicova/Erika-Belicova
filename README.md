@@ -34,11 +34,11 @@ ___
 ### 📌 Top Repositories
 
 <a href="https://github.com/Erika-Belicova/estate">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Erika-Belicova&repo=estate&theme=light&description=A%20back-end%20application%20built%20with%20Java%20and%20Spring%20Boot%2C%20connecting%20to%20an%20existing%20front-end%20via%20a%20REST%20API.%20(Work%20in%20Progress)" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Erika-Belicova&repo=estate&theme=light&description=A%20back-end%20application%20built%20with%20Java%20and%20Spring%20Boot%2C%20connecting%20to%20an%20existing%20front-end%20via%20a%20REST%20API.%20(Work%20in%20Progress)"/>
 </a>
 </a>
 <a href="https://github.com/Erika-Belicova/olympic-games">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Erika-Belicova&repo=olympic-games&theme=light&description=The+project+is+a+front-end+application+built+with+Angular+containing+an+interactive+web+dashboard+for+Olympic+Games+data." />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Erika-Belicova&repo=olympic-games&theme=light&description=The+project+is+a+front-end+application+built+with+Angular+containing+an+interactive+web+dashboard+for+Olympic+Games+data."/>
 </a>
 
 ___
