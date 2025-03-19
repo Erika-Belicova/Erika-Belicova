@@ -50,6 +50,7 @@ ___
   </div>
 </div>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Erika-Belicova)](https://git.io/streak-stats)
 ___
 ### 📫 Let's Connect!
 
